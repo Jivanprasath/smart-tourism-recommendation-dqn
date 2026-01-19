@@ -2,8 +2,19 @@
 Smart AI-powered tourism recommendation system using Deep Reinforcement Learning (DQN)
 
 ## 📌 Overview
-This project presents a **Smart AI-powered Tourism Recommendation System** built using  
+This project presents a **Smart AI-powered Tourism Recommendation System** developed using  
 **Deep Reinforcement Learning (Deep Q-Network – DQN)**.
+
+The system intelligently recommends suitable tourism destinations and travel packages by
+learning optimal decision-making policies from user preferences and interactions.
+Unlike traditional static recommendation systems, this model continuously improves
+its recommendations through reinforcement learning.
+
+To enhance usability and demonstrate real-world applicability, the project also includes
+an **interactive web-based user interface built with Gradio**, enabling users to receive
+real-time tourism recommendations in an intuitive and user-friendly manner.
+
+
 
 The system recommends suitable tourism destinations or packages by learning optimal
 policies from user preferences and feedback. Unlike traditional recommendation systems,
@@ -24,10 +35,11 @@ packages that maximize user satisfaction.
 - **Python**
 - **Deep Reinforcement Learning (DQN)**
 - **TensorFlow / Keras**
+- **Gradio (UI Interface)**
 - NumPy, Pandas
 - Matplotlib
-- Google Colab
 - Jupyter Notebook
+- Google Colab
 
 ---
 
