@@ -3,3 +3,6 @@ pandas
 matplotlib
 tensorflow
 keras
+scikit-learn
+gradio
+jupyter
