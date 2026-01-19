@@ -71,11 +71,12 @@ smart-tourism-recommendation-dqn
 ## 📊 Results & Outputs
 Below are sample outputs and visual results from the trained DQN model:
 
-![Result 1](screenshots/Tourism_img-1.jpeg)
-![Result 2](screenshots/Tourism_img-2.jpeg)
-![Result 3](screenshots/Tourism_img-3.jpeg)
-![Result 3](screenshots/Tourism_img-4.jpeg)
-![Result 3](screenshots/Tourism_img-5.jpeg)
+![Result 1](notebooks/data/models/screenshots/Tourism_img-1.jpeg)
+![Result 2](notebooks/data/models/screenshots/Tourism_img-2.jpeg)
+![Result 3](notebooks/data/models/screenshots/Tourism_img-3.jpeg)
+![Result 4](notebooks/data/models/screenshots/Tourism_img-4.jpeg)
+![Result 5](notebooks/data/models/screenshots/Tourism_img-5.jpeg)
+
 
 ---
 
